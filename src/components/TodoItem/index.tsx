@@ -1,5 +1,5 @@
 import { ChangeEvent, useContext } from "react"
-import { Todo } from "../../@types/todo"
+import { Todo } from "../../@types/Todo"
 import styles from "./TodoItem.module.css"
 import { TodoContext } from "../../contexts/TodoContext"
 import TrashIcon from "../../assets/trash.svg?react"

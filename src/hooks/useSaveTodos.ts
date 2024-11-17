@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from "react"
 import { TodoContext } from "../contexts/TodoContext"
 import {AES, enc} from 'crypto-js'
-import { Todo } from "../@types/todo"
+import { Todo } from "../@types/Todo"
 
 const SECRET_KEY = import.meta.env.VITE_SECRET_KEY as string
 const LOCAL_STORAGE_KEY = 'TODOS_DATA'
