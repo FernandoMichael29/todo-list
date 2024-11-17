@@ -1,10 +1,10 @@
 .container{
     min-height: 100vh;
     height: 100%;
-    background-color: var(--gray600);
+    background-color: #1A1A1A;
 }
 
 header{
-    background-color: var(--gray700);
+    background-color: #0D0D0D;
     height: 170px;
 }

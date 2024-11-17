@@ -4,7 +4,7 @@
     align-items: center;
     height: 100%;
     margin: 0 auto;
-    max-width: var(--maxWidthApp);
+    max-width: 800px;
     padding-top: 22px;
 }
 
@@ -13,11 +13,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--purpleDark);
+    color: #5E60CE;
 }
 
 .brandContainer p{
-    color: var(--purpleDark);
+    color: #5E60CE;
     font-size: 25px;
     font-weight: 800;
 }

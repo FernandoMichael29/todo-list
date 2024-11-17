@@ -4,20 +4,20 @@
 }
 
 .container input{
-    background-color: var(--gray500);
+    background-color: #262626;
     outline: none;
     border: 1px solid transparent;
     border-radius: 4px;
     font-size: 15px;
-    color: var(--gray100);
+    color: #F2F2F2;
     transition: all .3s;
     padding: 14px;
 }
 
 .container input::placeholder{
-    color: var(--gray300);
+    color: #808080;
 }
 
 .container input:focus{
-    border-color: var(--purpleDark);
+    border-color: #5E60CE;
 }
