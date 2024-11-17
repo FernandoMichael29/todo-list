@@ -1,4 +1,5 @@
-import { Todo } from "./todo";
+import { Todo } from "./Todo"
+
 
 export type TodoState = Todo[]
 
